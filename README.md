@@ -9,4 +9,4 @@ To run this program, download **Weather_Nextweek.py**.
 
 Sample output looks like this: 
 
-
+![sample output](https://user-images.githubusercontent.com/23446412/43756513-e68031b0-99c9-11e8-814c-1a6e127f9769.png)
