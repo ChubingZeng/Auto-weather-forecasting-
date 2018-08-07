@@ -5,4 +5,8 @@ If you are using a MAC, this program also read out the highest and lowest temper
 
 The default location is my home (somewhere is Pasadena), you can also use it for your location by changing latitude and longitude. 
 
-To run this program, download **Weather_Nextweek.py** 
+To run this program, download **Weather_Nextweek.py**. 
+
+Sample output looks like this: 
+
+
